@@ -10,3 +10,8 @@ function draw() {
   }
   ellipse(mouseX, mouseY, 80, 80);
 }
+
+// how I missed 
+// making comments
+// because Markdown doesn't support them
+// how are we supposed to talk to ourselves?
